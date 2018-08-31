@@ -45,6 +45,9 @@ class Deck(object):
 #
 #
 if __name__ == '__main__':
+    if __name__ == '__main__':
+        deck = Deck()
     deck = Deck()
+    deck.get_sorted_deck()
     deck.get_sorted_deck()
 
